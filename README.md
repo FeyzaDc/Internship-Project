@@ -1,2 +1,2 @@
-# internship-project
- full stack project
+### Project
+ I developed this project during my summer internship. 
